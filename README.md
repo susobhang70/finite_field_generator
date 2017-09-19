@@ -1,4 +1,4 @@
-# Finite Field Construction
+# Finite Field Generator
 
 ### To execute
 
